@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Want to find out more about me/what I'm working on? Visit my website at https://joeybabcock.me/blog/
+- Want to find out more about me/what I'm working on? Visit my website at https://joeybabcock.me/blog/.
